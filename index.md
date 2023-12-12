@@ -6,3 +6,6 @@
 #!/bin/bash
 echo "Hello!"
 ```
+
+- [x] Do some GitHub stuff;
+- [ ] Go to sleep!
